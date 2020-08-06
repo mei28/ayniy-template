@@ -7,6 +7,7 @@ mkdir output/logs
 mkdir output/model
 mkdir output/pred
 mkdir output/submissions
+mkdir notebooks
 
 # template
 cp -r ~/ayniy/ayniy/ ayniy/
@@ -26,3 +27,4 @@ touch output/model/.gitkeep
 touch output/pred/.gitkeep
 touch output/submissions/.gitkeep
 touch README.md
+
